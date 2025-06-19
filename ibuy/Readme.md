@@ -44,7 +44,7 @@ Adicione aqui prints do app:
 
 2. Clone o projeto:
    ```sh
-   git clone https://github.com/marcionavarro/rocketseat.git
+   git clone https://github.com/marcionavarro/rocketseat-reactnative
    cd react-native/ibuy
    ```
 2. Instale as dependências:
